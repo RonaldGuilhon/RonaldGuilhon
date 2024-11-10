@@ -22,7 +22,7 @@ Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento 
 
 ---
 
-### <img src="https://github.com/user-attachments/assets/7887415d-62b5-43ee-a8a2-4416faba42e0" width="25" /> Formação e Experiência 
+### <img src="https://github.com/user-attachments/assets/7887415d-62b5-43ee-a8a2-4416faba42e0" width="22" /> Formação e Experiência 
 
 - **Formação Acadêmica**: Cursando **Pós em `Desenvolvimento de Sistemas com Java`** na [Uniasselvi](https://portal.uniasselvi.com.br).
 - **Formação Acadêmica**: Cursando **`Análise e Desenvolvimento de Sistemas`** na [Unifatecie](https://unifatecie.edu.br).

@@ -20,14 +20,14 @@ Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento 
     </a>
 </p>
 
-### 👨🏻‍🎓 Formação e Experiência | Buscando conhecimneto
+### 👨🏻‍🎓 Formação e Experiência 
 
 - **Formação Acadêmica**: Cursando **Pós em `Desenvolvimento de Sistemas com Java`** na [Uniasselvi](https://portal.uniasselvi.com.br).
 - **Formação Acadêmica**: Cursando **`Análise e Desenvolvimento de Sistemas`** na [Unifatecie](https://unifatecie.edu.br).
 - **Formação Acadêmica**: Concluí o curso em **`Gestão da Qualidade`** na [Unifatecie](https://unifatecie.edu.br).
 - **Curso Técnico**: Concluí o curso técnico em **`Automação Industrial`** pela [Fundação Matias Machline](https://www.fundacaomatiasmachline.org.br).
 
-### 🤖 **Linguagens e Tecnologias**
+### 🤖 **Linguagens e Tecnologias** | Buscando conhecimneto
 
 <img align="left" alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="SQL" title="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />

@@ -8,17 +8,18 @@ Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento 
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/RonaldGuilhon?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://img.shields.io/github/stars/RonaldGuilhon?style=social"
         />
     </a>
     <a href="https://github.com/RonaldGuilhon?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/RonaldGuilhon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://img.shields.io/github/followers/RonaldGuilhon?style=social"
         />
     </a>
 </p>
+
 
 ---
 

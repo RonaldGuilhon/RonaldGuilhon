@@ -1,4 +1,4 @@
-# ![doom-guy](https://github.com/user-attachments/assets/4aac8ecb-2d4d-403e-a997-cbc78e71ca27) **Ronald Simplicio**  
+# <img src="https://github.com/user-attachments/assets/4aac8ecb-2d4d-403e-a997-cbc78e71ca27" width="25" /> **Ronald Simplicio**  
 **`Desenvolvedor FullStack em Formação`**
 
 Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento web. Atualmente, estou em formação como desenvolvedor FullStack e buscando evoluir para desenvolver projetos robustos e complexos. Estou sempre explorando novas tecnologias, aprendendo e aplicando meus conhecimentos na prática.
@@ -22,7 +22,7 @@ Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento 
 
 ---
 
-### <img src="https://github.com/user-attachments/assets/7887415d-62b5-43ee-a8a2-4416faba42e0" width="30" /> Formação e Experiência 
+### <img src="https://github.com/user-attachments/assets/7887415d-62b5-43ee-a8a2-4416faba42e0" width="25" /> Formação e Experiência 
 
 - **Formação Acadêmica**: Cursando **Pós em `Desenvolvimento de Sistemas com Java`** na [Uniasselvi](https://portal.uniasselvi.com.br).
 - **Formação Acadêmica**: Cursando **`Análise e Desenvolvimento de Sistemas`** na [Unifatecie](https://unifatecie.edu.br).

@@ -56,7 +56,7 @@ Olá! Sou o **Ronald Guilhon**, um estudante da tecnologia de desenvolvimento we
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
     <a href="#">
-        <img alt="Estatísticas do GitHub Do Ronald" 
+        <img alt="Estatísticas do GitHub Do Ronald Guilhon" 
              src="https://bad-apple-github-readme.vercel.app/api?username=RonaldGuilhon&show_icons=true&count_private=true&line_height=20&icon_color=ffffff&theme=dark&title_color=00b3ff&bg_color=1d1f21"
              style="width: 48%; height: 210px; object-fit: cover;" />
     </a>

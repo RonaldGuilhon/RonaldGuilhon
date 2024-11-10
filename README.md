@@ -1,7 +1,7 @@
 # 👨🏻‍💻 **Ronald Simplicio**  
 **`Desenvolvedor FullStack em Formação`**
 
-Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento web. Atualmente, estou em formação como desenvolvedor FullStack e buscando oportunidades para crescer e colaborar em projetos inovadores. Estou sempre explorando novas tecnologias, aprendendo e aplicando meus conhecimentos na prática.
+Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento web. Atualmente, estou em formação como desenvolvedor FullStack e buscando evoluir pra desenvolver projetos robustos e complexos. Estou sempre explorando novas tecnologias, aprendendo e aplicando meus conhecimentos na prática.
 
 <p align="left">  
     <a href="https://github.com/RonaldGuilhon?tab=repositories&sort=stargazers">
@@ -27,7 +27,7 @@ Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento 
 - **Formação Acadêmica**: Concluí o curso em **`Gestão da Qualidade`** na [Unifatecie](https://unifatecie.edu.br).
 - **Curso Técnico**: Concluí o curso técnico em **`Automação Industrial`** pela [Fundação Matias Machline](https://www.fundacaomatiasmachline.org.br).
 
-### 🤖 **Linguagens e Tecnologias** | Buscando conhecimneto
+### 🤖 **Linguagens e Tecnologias** | Buscando conhecimento
 
 <img align="left" alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="SQL" title="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
@@ -42,8 +42,6 @@ Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento 
 <img align="left" alt="Angular" title="Angular" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
 <img align="left" alt="Node.js" title="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="NestJS" title="NestJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
-
-
 
 <br/>
 <br/>

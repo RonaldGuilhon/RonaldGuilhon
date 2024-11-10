@@ -63,7 +63,7 @@ Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento 
     <a href="#">
         <img alt="Top languages"
              src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=RonaldGuilhon&layout=compact&count_private=true&theme=dark&title_color=00b3ff&bg_color=1d1f21"
-             style="width: 48%; height: 210px; object-fit: cover;" />
+             style="width: 48%; height: 180px; object-fit: cover;" />
     </a>
 </div>
 

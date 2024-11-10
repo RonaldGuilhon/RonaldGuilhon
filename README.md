@@ -61,11 +61,12 @@ Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento 
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none;">
-      [![Estatísticas do GitHub Do Ronald](https://bad-apple-github-readme.vercel.app/api?username=RonaldGuilhon&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+      <img alt="GitHub Stats" height="210" src="https://github-readme-stats.vercel.app/api?username=RonaldGuilhon&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
     </td>
     <td style="border: none;">
       <img alt="GitHub Stats" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldGuilhon&theme=tokyonight&layout=compact&langs_count=9&hide_title=true" />
     </td>
   </tr>
 </table>
+
 

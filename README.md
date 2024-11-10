@@ -55,8 +55,8 @@ Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento 
 ### 🚀 **Estatísticas**
 
 <p align="left">
-    <img alt="GitHub Stats" height="210" src="https://github-readme-stats.vercel.app/api?username=RonaldGuilhon&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-    <img alt="GitHub Stats" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldGuilhon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_title=true" />
+    <img alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api?username=RonaldGuilhon&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+    <img alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldGuilhon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_title=true" />
 </p>
 
 

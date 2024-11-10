@@ -61,12 +61,10 @@ Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento 
 
 ### 🔗 **Redes Sociais**
 
-### 🔗 **Redes Sociais**
-
 <div style="display: flex; align-items: center; gap: 10px;">
   <img alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img alt="LinkedIn" title="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  <img alt="Gmail" title="Gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" />
+  <img alt="Gmail" title="Gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Outlook.com_icon.png" />
   <img alt="Hotmail" title="Hotmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" />
 </div>
 

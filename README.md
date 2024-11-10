@@ -24,9 +24,9 @@ Olá! Sou o **Ronald Simplicio**, um entusiasta da tecnologia com paixão por de
 
 - **Formação Acadêmica**: Cursando **Pós em `Desenvolvimento de Sistemas com Java`** na [Uniasselvi](https://portal.uniasselvi.com.br).
 - **Formação Acadêmica**: Cursando **`Análise e Desenvolvimento de Sistemas`** na [Unifatecie](https://unifatecie.edu.br).
-- **Formação Acadêmica**: Concluí o curso técnico em **`Gestão da Qualidade`** na [Unifatecie](https://unifatecie.edu.br).
+- **Formação Acadêmica**: Concluí o curso em **`Gestão da Qualidade`** na [Unifatecie](https://unifatecie.edu.br).
 - **Curso Técnico**: Concluí o curso técnico em **`Automação Industrial`** pelo [Fundação Matias Machline](https://www.fundacaomatiasmachline.org.br).
-- **GitHub**: Gosto de compartilhar no [GitHub](https://github.com/RonaldGuilhon), onde tenho trabalhado e estudado em diversos projetos utilizando tecnologias modernas de desenvolvimento web.
+- **GitHub**: Compartilho no [GitHub](https://github.com/RonaldGuilhon), trabalhos e estudos em diversas tecnologias de desenvolvimento FullStack.
 
 ### 🤖 **Linguagens e Tecnologias**
 

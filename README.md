@@ -61,5 +61,28 @@ Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento 
 
 ### 🔗 **Redes Sociais**
 
+<a href="https://github.com/RonaldGuilhon" target="_blank">
+  <img align="left" alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/ronaldsimplicio/" target="_blank">
+  <img align="left" alt="LinkedIn" title="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+
+<a href="mailto:seuemail@gmail.com">
+  <img align="left" alt="Gmail" title="Gmail" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+</a>
+
+<a href="mailto:seuemail@hotmail.com">
+  <img align="left" alt="Hotmail" title="Hotmail" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" />
+</a>
+
+<br/>
+<br/>
+---
+
 - **GitHub**: [RonaldGuilhon](https://github.com/RonaldGuilhon)
 - **LinkedIn**: [Ronald Simplicio](https://www.linkedin.com/in/ronaldsimplicio/)
+- **Gmail**: [seuemail@gmail.com](mailto:seuemail@gmail.com)
+- **Hotmail**: [seuemail@hotmail.com](mailto:seuemail@hotmail.com)
+

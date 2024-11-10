@@ -55,14 +55,14 @@ Olá! Sou o **Ronald Guilhon**, um estudante da tecnologia de desenvolvimento we
 ### 🚀 **Estatísticas GitHub**
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
-    <a href="#">
+    <a href="#" style="flex: 1 1 48%; min-width: 300px; max-width: 500px;">
         <img alt="Estatísticas GitHub Do Ronald Guilhon" 
              src="https://bad-apple-github-readme.vercel.app/api?username=RonaldGuilhon&show_icons=true&count_private=true&line_height=20&icon_color=ffffff&theme=dark&title_color=00b3ff&bg_color=1d1f21"
-             style="width: 50%; height: 210px; object-fit: cover;" />
+             style="width: 100%; height: auto; object-fit: cover;" />
     </a>
-    <a href="#">
+    <a href="#" style="flex: 1 1 48%; min-width: 300px; max-width: 500px;">
         <img alt="Top languages"
              src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=RonaldGuilhon&layout=compact&count_private=true&theme=dark&title_color=00b3ff&bg_color=1d1f21"
-             style="width: 48%; height: 200px; object-fit: cover;" />
+             style="width: 100%; height: auto; object-fit: cover;" />
     </a>
 </div>

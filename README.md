@@ -5,10 +5,10 @@ Olá! Sou o **Ronald Simplicio**, um entusiasta da tecnologia com paixão por de
 
 ### 👨🏻‍🎓 Formação e Experiência
 
-- **Formação Acadêmica**: Cursando **Pós em Desenvolvimento de Sistemas com Java** na [Uniasselvi](https://portal.uniasselvi.com.br).
-- **Formação Acadêmica**: Cursando **Análise e Desenvolvimento de Sistemas** na [Unifatecie](https://unifatecie.edu.br).
-- **Formação Acadêmica**: Concluí o curso técnico em **Gestão da Qualidade** na [Unifatecie](https://unifatecie.edu.br).
-- **Curso Técnico**: Concluí o curso técnico em **Automação Industrial** pelo [Fundação Matias Machline](https://www.fundacaomatiasmachline.org.br).
+- **Formação Acadêmica**: Cursando **Pós em `Desenvolvimento de Sistemas com Java`** na [Uniasselvi](https://portal.uniasselvi.com.br).
+- **Formação Acadêmica**: Cursando **`Análise e Desenvolvimento de Sistemas`** na [Unifatecie](https://unifatecie.edu.br).
+- **Formação Acadêmica**: Concluí o curso técnico em **`Gestão da Qualidade`** na [Unifatecie](https://unifatecie.edu.br).
+- **Curso Técnico**: Concluí o curso técnico em **`Automação Industrial`** pelo [Fundação Matias Machline](https://www.fundacaomatiasmachline.org.br).
 - **GitHub**: Gosto de compartilhar meus projetos no [GitHub](https://github.com/RonaldGuilhon), onde tenho trabalhado  e estudado em diversos projetos utilizando tecnologias modernas de desenvolvimento web.
 
 ### 🤖 **Linguagens e Tecnologias**
@@ -31,8 +31,7 @@ Olá! Sou o **Ronald Simplicio**, um entusiasta da tecnologia com paixão por de
   <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldGuilhon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
-<br/>
-<br/>
+---
 
 ### 🔗 **Redes Sociais**
 

@@ -68,11 +68,11 @@ Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento 
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img alt="LinkedIn" title="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+
  </div>
 
 <br/>
 
 - **GitHub**: [RonaldGuilhon](https://github.com/RonaldGuilhon)
-- **LinkedIn**: [Ronald Simplicio](https://www.linkedin.com/in/ronaldsimplicio/)
+
 

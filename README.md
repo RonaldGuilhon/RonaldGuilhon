@@ -25,16 +25,17 @@ Olá! Sou o **Ronald Simplicio**, um entusiasta da tecnologia com paixão por de
 
 ### 📊 **Estatísticas**
 
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
-    <td>
+    <td style="border: none;">
       <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=RonaldGuilhon&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
     </td>
-    <td>
+    <td style="border: none;">
       <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldGuilhon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
     </td>
   </tr>
 </table>
+
 
 ---
 

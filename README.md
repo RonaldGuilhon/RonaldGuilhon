@@ -1,4 +1,5 @@
 # <img src="https://github.com/user-attachments/assets/4aac8ecb-2d4d-403e-a997-cbc78e71ca27" width="35" /> **Ronald Guilhon**  
+---
 *`Desenvolvedor FullStack em Formação`*
 
 Olá! Sou o **Ronald Guilhon**, um estudante da tecnologia de desenvolvimento web. Atualmente, estou em formação como desenvolvedor FullStack e buscando evoluir para desenvolver projetos robustos e complexos. Estou sempre explorando novas tecnologias, aprendendo e aplicando meus conhecimentos na prática.

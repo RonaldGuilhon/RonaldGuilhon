@@ -51,7 +51,7 @@ Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento 
 
 ---
 
-### <span style="font-size: 1.5em;">📊</span> **Estatísticas**
+### 🚀 **Estatísticas**
 
 <table style="border-collapse: collapse; border: none;">
   <tr>

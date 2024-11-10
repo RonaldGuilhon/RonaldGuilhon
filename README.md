@@ -1,5 +1,6 @@
 # <img src="https://github.com/user-attachments/assets/4aac8ecb-2d4d-403e-a997-cbc78e71ca27" width="25" /> **Ronald Simplicio**  
 **`Desenvolvedor FullStack em Formação`**
+---
 
 Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento web. Atualmente, estou em formação como desenvolvedor FullStack e buscando evoluir para desenvolver projetos robustos e complexos. Estou sempre explorando novas tecnologias, aprendendo e aplicando meus conhecimentos na prática.
 
@@ -20,8 +21,6 @@ Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento 
     </a>
 </p>
 
-
-
 ---
 
 ### <img src="https://github.com/user-attachments/assets/7887415d-62b5-43ee-a8a2-4416faba42e0" width="22" /> Formação e Experiência 
@@ -30,9 +29,6 @@ Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento 
 - **Formação Acadêmica**: Cursando **`Análise e Desenvolvimento de Sistemas`** na [Unifatecie](https://unifatecie.edu.br).
 - **Formação Acadêmica**: Concluí o curso em **`Gestão da Qualidade`** na [Unifatecie](https://unifatecie.edu.br).
 - **Curso Técnico**: Concluí o curso técnico em **`Automação Industrial`** pela [Fundação Matias Machline](https://www.fundacaomatiasmachline.org.br).
-
-
-
 
 ---
 
@@ -58,15 +54,10 @@ Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento 
 
 ### 🚀 **Estatísticas**
 
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="border: none;">
-      <img alt="GitHub Stats" height="210" src="https://github-readme-stats.vercel.app/api?username=RonaldGuilhon&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-    </td>
-    <td style="border: none;">
-      <img alt="GitHub Stats" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldGuilhon&theme=tokyonight&layout=compact&langs_count=9&hide_title=true" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+    <img alt="GitHub Stats" height="210" src="https://github-readme-stats.vercel.app/api?username=RonaldGuilhon&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+    <img alt="GitHub Stats" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldGuilhon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_title=true" />
+</p>
+
 
 

@@ -1,4 +1,4 @@
-# 👨🏻‍💻 **Ronald Simplicio**  
+# 👨 **Ronald Simplicio**  
 **`Desenvolvedor FullStack em Formação`**
 
 Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento web. Atualmente, estou em formação como desenvolvedor FullStack e buscando evoluir pra desenvolver projetos robustos e complexos. Estou sempre explorando novas tecnologias, aprendendo e aplicando meus conhecimentos na prática.

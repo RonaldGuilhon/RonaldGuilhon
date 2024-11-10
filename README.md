@@ -61,19 +61,13 @@ Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento 
 
 ### 🔗 **Redes Sociais**
 
-<div style="display: flex; align-items: center;">
-  <a href="https://github.com/RonaldGuilhon" target="_blank" style="margin-right: 10px;">
-    <img alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/ronaldsimplicio/" target="_blank" style="margin-right: 10px;">
-    <img alt="LinkedIn" title="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank" style="margin-right: 10px;">
-    <img alt="Gmail" title="Gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" />
-  </a>
-  <a href="mailto:seuemail@hotmail.com" target="_blank" style="margin-right: 10px;">
-    <img alt="Hotmail" title="Hotmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" />
-  </a>
+### 🔗 **Redes Sociais**
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="LinkedIn" title="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  <img alt="Gmail" title="Gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" />
+  <img alt="Hotmail" title="Hotmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" />
 </div>
 
 <br/>

@@ -31,6 +31,9 @@ Olá! Sou o **Ronald Simplicio**, um entusiasta da tecnologia com paixão por de
   <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldGuilhon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
+<br/>
+<br/>
+
 ### 🔗 **Redes Sociais**
 
 - **GitHub**: [RonaldGuilhon](https://github.com/RonaldGuilhon)

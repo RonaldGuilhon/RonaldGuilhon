@@ -2,7 +2,7 @@
 **`Desenvolvedor FullStack em Formação`**
 ---
 
-Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento web. Atualmente, estou em formação como desenvolvedor FullStack e buscando evoluir para desenvolver projetos robustos e complexos. Estou sempre explorando novas tecnologias, aprendendo e aplicando meus conhecimentos na prática.
+Olá! Sou o **Ronald Guilhon**, um estudante da tecnologia de desenvolvimento web. Atualmente, estou em formação como desenvolvedor FullStack e buscando evoluir para desenvolver projetos robustos e complexos. Estou sempre explorando novas tecnologias, aprendendo e aplicando meus conhecimentos na prática.
 
 <p align="left">  
     <a href="https://github.com/RonaldGuilhon?tab=repositories&sort=stargazers">

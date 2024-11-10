@@ -9,7 +9,7 @@ Olá! Sou o **Ronald Simplicio**, um entusiasta da tecnologia com paixão por de
 - **Formação Acadêmica**: Cursando **`Análise e Desenvolvimento de Sistemas`** na [Unifatecie](https://unifatecie.edu.br).
 - **Formação Acadêmica**: Concluí o curso técnico em **`Gestão da Qualidade`** na [Unifatecie](https://unifatecie.edu.br).
 - **Curso Técnico**: Concluí o curso técnico em **`Automação Industrial`** pelo [Fundação Matias Machline](https://www.fundacaomatiasmachline.org.br).
-- **GitHub**: Gosto de compartilhar meus projetos no [GitHub](https://github.com/RonaldGuilhon), onde tenho trabalhado  e estudado em diversos projetos utilizando tecnologias modernas de desenvolvimento web.
+- **GitHub**: Gosto de compartilhar no [GitHub](https://github.com/RonaldGuilhon), onde tenho trabalhado e estudado em diversos projetos utilizando tecnologias modernas de desenvolvimento web.
 
 ### 🤖 **Linguagens e Tecnologias**
 
@@ -20,16 +20,21 @@ Olá! Sou o **Ronald Simplicio**, um entusiasta da tecnologia com paixão por de
 <img align="left" alt="Bootstrap" title="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-
 <br/>
 <br/>
 
 ### 📊 **Estatísticas**
 
-<p>
-  <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=RonaldGuilhon&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldGuilhon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=RonaldGuilhon&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+    </td>
+    <td>
+      <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldGuilhon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+    </td>
+  </tr>
+</table>
 
 ---
 

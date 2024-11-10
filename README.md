@@ -31,7 +31,7 @@ Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento 
 
 ---
 
-### <span style="font-size: 1.5em;">🤖</span> **Linguagens e Tecnologias**
+### 🛠️ **Linguagens e Tecnologias**
 
 <div align="left">
     <img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="margin: 10px"/>

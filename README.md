@@ -20,7 +20,7 @@ Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento 
     </a>
 </p>
 
-### 👨🏻‍🎓 Formação e Experiência
+### 👨🏻‍🎓 Formação e Experiência | Buscando conhecimneto
 
 - **Formação Acadêmica**: Cursando **Pós em `Desenvolvimento de Sistemas com Java`** na [Uniasselvi](https://portal.uniasselvi.com.br).
 - **Formação Acadêmica**: Cursando **`Análise e Desenvolvimento de Sistemas`** na [Unifatecie](https://unifatecie.edu.br).

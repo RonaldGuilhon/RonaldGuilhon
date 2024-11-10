@@ -57,15 +57,16 @@ Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
     <a href="#">
         <img alt="Estatísticas do GitHub Do Ronald" 
-             src="https://bad-apple-github-readme.vercel.app/api?username=RonaldGuilhon&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff"
+             src="https://bad-apple-github-readme.vercel.app/api?username=RonaldGuilhon&show_icons=true&count_private=true&line_height=20&icon_color=ffffff&theme=dark&title_color=00b3ff&bg_color=1d1f21"
              style="width: 48%; height: 210px; object-fit: cover;" />
     </a>
     <a href="#">
         <img alt="Top languages"
-             src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=RonaldGuilhon&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff"
+             src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=RonaldGuilhon&layout=compact&count_private=true&theme=dark&title_color=00b3ff&bg_color=1d1f21"
              style="width: 48%; height: 210px; object-fit: cover;" />
     </a>
 </div>
+
 
 
 

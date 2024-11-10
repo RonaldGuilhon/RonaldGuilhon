@@ -54,10 +54,17 @@ Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento 
 
 ### 🚀 **Estatísticas**
 
-[![Estatísticas do GitHub Do Ronald](https://bad-apple-github-readme.vercel.app/api?username=RonaldGuilhon&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
-
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=RonaldGuilhon&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-</p>
-
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
+    <a href="#">
+        <img alt="Estatísticas do GitHub Do Ronald" 
+             src="https://bad-apple-github-readme.vercel.app/api?username=RonaldGuilhon&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff"
+             style="max-width: 48%; height: auto;" />
+    </a>
+    <a href="#">
+        <img alt="Top languages"
+             src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=RonaldGuilhon&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff"
+             style="max-width: 48%; height: auto;" />
+    </a>
+</div>
 
 

@@ -1,7 +1,7 @@
 # 👨🏻‍💻 **Ronald Simplicio**  
 **`Desenvolvedor FullStack em Formação`**
 
-Olá! Sou o **Ronald Simplicio**, um entusiasta da tecnologia com paixão por desenvolvimento web. Atualmente, estou em formação como desenvolvedor FullStack e buscando oportunidades para crescer e colaborar em projetos inovadores. Estou sempre explorando novas tecnologias, aprendendo e aplicando meus conhecimentos na prática.
+Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento web. Atualmente, estou em formação como desenvolvedor FullStack e buscando oportunidades para crescer e colaborar em projetos inovadores. Estou sempre explorando novas tecnologias, aprendendo e aplicando meus conhecimentos na prática.
 
 <p align="left">  
     <a href="https://github.com/RonaldGuilhon?tab=repositories&sort=stargazers">
@@ -26,7 +26,6 @@ Olá! Sou o **Ronald Simplicio**, um entusiasta da tecnologia com paixão por de
 - **Formação Acadêmica**: Cursando **`Análise e Desenvolvimento de Sistemas`** na [Unifatecie](https://unifatecie.edu.br).
 - **Formação Acadêmica**: Concluí o curso em **`Gestão da Qualidade`** na [Unifatecie](https://unifatecie.edu.br).
 - **Curso Técnico**: Concluí o curso técnico em **`Automação Industrial`** pela [Fundação Matias Machline](https://www.fundacaomatiasmachline.org.br).
-- **GitHub**: Compartilho no [GitHub](https://github.com/RonaldGuilhon), trabalhos e estudos em diversas tecnologias de desenvolvimento FullStack.
 
 ### 🤖 **Linguagens e Tecnologias**
 

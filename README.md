@@ -57,7 +57,7 @@ Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento 
 </table>
 
 
----
+--
 
 ### 🔗 **Redes Sociais**
 
@@ -69,20 +69,18 @@ Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento 
   <img align="left" alt="LinkedIn" title="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
-<a href="mailto:seuemail@gmail.com">
-  <img align="left" alt="Gmail" title="Gmail" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+<a href="mailto:seuemail@gmail.com" target="_blank">
+  <img align="left" alt="Gmail" title="Gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" />
 </a>
 
-<a href="mailto:seuemail@hotmail.com">
-  <img align="left" alt="Hotmail" title="Hotmail" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" />
+<a href="mailto:seuemail@hotmail.com" target="_blank">
+  <img align="left" alt="Hotmail" title="Hotmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" />
 </a>
 
 <br/>
 <br/>
----
 
 - **GitHub**: [RonaldGuilhon](https://github.com/RonaldGuilhon)
 - **LinkedIn**: [Ronald Simplicio](https://www.linkedin.com/in/ronaldsimplicio/)
 - **Gmail**: [seuemail@gmail.com](mailto:seuemail@gmail.com)
 - **Hotmail**: [seuemail@hotmail.com](mailto:seuemail@hotmail.com)
-

@@ -3,6 +3,23 @@
 
 Olá! Sou o **Ronald Simplicio**, um entusiasta da tecnologia com paixão por desenvolvimento web. Atualmente, estou em formação como desenvolvedor FullStack e buscando oportunidades para crescer e colaborar em projetos inovadores. Estou sempre explorando novas tecnologias, aprendendo e aplicando meus conhecimentos na prática.
 
+<p align="left">  
+    <a href="https://github.com/RonaldGuilhon?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/RonaldGuilhon?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/RonaldGuilhon?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/RonaldGuilhon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
 ### 👨🏻‍🎓 Formação e Experiência
 
 - **Formação Acadêmica**: Cursando **Pós em `Desenvolvimento de Sistemas com Java`** na [Uniasselvi](https://portal.uniasselvi.com.br).

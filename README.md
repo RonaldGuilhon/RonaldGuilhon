@@ -1,5 +1,5 @@
 # <img src="https://github.com/user-attachments/assets/4aac8ecb-2d4d-403e-a997-cbc78e71ca27" width="35" /> **Ronald Guilhon**  
-*`Desenvolvedor FullStack em Formação`*
+**`Desenvolvedor FullStack em Formação`**
 
 Olá! Sou o **Ronald Guilhon**, um estudante da tecnologia de desenvolvimento web. Atualmente, estou em formação como desenvolvedor FullStack e buscando evoluir para desenvolver projetos robustos e complexos. Estou sempre explorando novas tecnologias, aprendendo e aplicando meus conhecimentos na prática.
 
@@ -22,12 +22,13 @@ Olá! Sou o **Ronald Guilhon**, um estudante da tecnologia de desenvolvimento we
 
 ---
 
-### <img src="https://github.com/user-attachments/assets/7887415d-62b5-43ee-a8a2-4416faba42e0" width="22" /> Formação e Experiência 
+### <img src="https://github.com/user-attachments/assets/7887415d-62b5-43ee-a8a2-4416faba42e0" width="22" /> Formação
 
-- **Formação Acadêmica**: Cursando **Pós em `Desenvolvimento de Sistemas com Java`** na [Uniasselvi](https://portal.uniasselvi.com.br).
-- **Formação Acadêmica**: Cursando **`Análise e Desenvolvimento de Sistemas`** na [Unifatecie](https://unifatecie.edu.br).
-- **Formação Acadêmica**: Concluí o curso em **`Gestão da Qualidade`** na [Unifatecie](https://unifatecie.edu.br).
-- **Curso Técnico**: Concluí o curso técnico em **`Automação Industrial`** pela [Fundação Matias Machline](https://www.fundacaomatiasmachline.org.br).
+- **Pós-Graduação**: Desenvolvimento de Sistemas com Java - [Uniasselvi](https://portal.uniasselvi.com.br) (Cursando)
+- **Graduação**: Análise e Desenvolvimento de Sistemas - [Unifatecie](https://unifatecie.edu.br) (Cursando)
+- **Graduação**: Gestão da Qualidade - [Unifatecie](https://unifatecie.edu.br) (Concluído)
+- **Técnico**: Automação Industrial - [Fundação Matias Machline](https://www.fundacaomatiasmachline.org.br) (Concluído)
+
 
 ---
 

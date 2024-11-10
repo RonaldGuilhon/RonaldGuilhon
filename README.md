@@ -64,14 +64,10 @@ Olá! Sou o **Ronald Simplicio**, um estudante da tecnologia de desenvolvimento 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img alt="LinkedIn" title="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  <img alt="Gmail" title="Gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Google_Gmail_logo_2013.svg" />
-  <img alt="Outlook" title="Outlook" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Outlook.com_logo_2013.svg" />
-</div>
+ </div>
 
 <br/>
 
 - **GitHub**: [RonaldGuilhon](https://github.com/RonaldGuilhon)
 - **LinkedIn**: [Ronald Simplicio](https://www.linkedin.com/in/ronaldsimplicio/)
-- **Gmail**: [ronaldguilhon@gmail.com](mailto:ronaldguilhon@gmail.com)
-- **Hotmail**: [ronaldguilhon@hotmail.com](mailto:ronaldguilhon@hotmail.com)
 

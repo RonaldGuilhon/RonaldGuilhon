@@ -32,7 +32,7 @@ Atualmente, estou em formação como desenvolvedor FullStack e buscando evoluir 
 
 ---
 
-### 🛠️ **Linguagens e Tecnologias**
+### 🛠️ **Linguagens e Tecnologias | Buscando Conhecimento**
 
 <div align="left">
     <img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="margin: 10px"/>

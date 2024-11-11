@@ -24,10 +24,10 @@ Olá! Sou o **Ronald Guilhon**, um estudante da tecnologia de desenvolvimento we
 
 ### <img src="https://github.com/user-attachments/assets/7887415d-62b5-43ee-a8a2-4416faba42e0" width="22" /> Formação
 
-- **Pós-Graduação**: `Desenvolvimento de Sistemas com Java` - [Uniasselvi](https://portal.uniasselvi.com.br) :yellow_circle: **Cursando**
-- **Graduação**: `Análise e Desenvolvimento de Sistemas` - [Unifatecie](https://unifatecie.edu.br) :yellow_circle: **Cursando**
-- **Graduação**: `Gestão da Qualidade` - [Unifatecie](https://unifatecie.edu.br) :green_circle: **Concluído**
-- **Técnico**: `Automação Industrial` - [Fundação Matias Machline](https://www.fundacaomatiasmachline.org.br) :green_circle: **Concluído**
+- **Pós-Graduação**: `Desenvolvimento de Sistemas com Java` - [Uniasselvi](https://portal.uniasselvi.com.br) ![Cursando](https://img.shields.io/badge/Status-Cursando-yellow)
+- **Graduação**: `Análise e Desenvolvimento de Sistemas` - [Unifatecie](https://unifatecie.edu.br) ![Cursando](https://img.shields.io/badge/Status-Cursando-yellow)
+- **Graduação**: `Gestão da Qualidade` - [Unifatecie](https://unifatecie.edu.br) ![Concluído](https://img.shields.io/badge/Status-Concluído-green)
+- **Técnico**: `Automação Industrial` - [Fundação Matias Machline](https://www.fundacaomatiasmachline.org.br) ![Concluído](https://img.shields.io/badge/Status-Concluído-green)
 
 ---
 

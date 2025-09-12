@@ -54,5 +54,17 @@ Atualmente, estou em formação como desenvolvedor FullStack e buscando evoluir 
 
 ### 🚀 **Estatísticas GitHub**
 
-<div style="display: flex; gap: 50px; justify-content: center; max-width: 1200px; margin: 0 auto; padding: 10px;"> <a href="#" style="flex: 1; min-width: 300px; aspect-ratio: 1.6; display: block;"> <img alt="Estatísticas GitHub Do Ronald Guilhon" src="https://bad-apple-github-readme.vercel.app/api?username=RonaldGuilhon&show_icons=true&count_private=true&line_height=31&icon_color=ffffff&theme=dark&title_color=00b3ff&bg_color=1d1f21" style="width: 45%; height: 45%; object-fit: cover;" /> </a> <a href="#" style="flex: 1; min-width: 300px; aspect-ratio: 1.6; display: block;"> <img alt="Top languages" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=RonaldGuilhon&layout=compact&count_private=true&theme=dark&title_color=00b3ff&bg_color=1d1f21" style="width: 45%; height: 18%; object-fit: cover;" /> </a> </div
+<div style="display: flex; gap: 20px; justify-content: center; max-width: 1200px; margin: 0 auto; padding: 10px; flex-wrap: wrap;">
+    <a href="#" style="flex: 1 1 45%; min-width: 300px; aspect-ratio: 1.6; display: flex;">
+        <img alt="Estatísticas GitHub Do Ronald Guilhon" 
+             src="https://github-readme-stats.vercel.app/api?username=RonaldGuilhon&show_icons=true&count_private=true&line_height=31&icon_color=ffffff&theme=dark&title_color=00b3ff&bg_color=1d1f21"
+             style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;" />
+    </a>
+    <a href="#" style="flex: 1 1 45%; min-width: 300px; aspect-ratio: 1.6; display: flex;">
+        <img alt="Top languages"
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldGuilhon&layout=compact&count_private=true&theme=dark&title_color=00b3ff&bg_color=1d1f21"
+             style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;" />
+    </a>
+</div>
+
 

@@ -54,16 +54,10 @@ Atualmente, estou em formação como desenvolvedor FullStack e buscando evoluir 
 
 ### 🚀 Estatísticas GitHub
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=RonaldGuilhon&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldGuilhon&layout=compact&theme=dark&hide_border=true&cache_seconds=86400"
-    height="180"
-  />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=RonaldGuilhon&show_icons=true&theme=dark" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldGuilhon&layout=compact&theme=dark" />
+
 
 
 

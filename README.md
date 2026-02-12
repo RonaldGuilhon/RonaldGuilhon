@@ -50,7 +50,8 @@ Atualmente, estou em formação como desenvolvedor FullStack e buscando evoluir 
     <img alt="NestJS" title="NestJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" style="margin: 10px"/> -->
 </div>
 
----
+
+
 <!--
 ### 🚀 Estatísticas GitHub
 
